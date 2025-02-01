@@ -6,11 +6,11 @@ MummaCare is a comprehensive pregnancy companion app designed to support and emp
 Features
 MummaCare offers a suite of five core features:
 
-1. Symptom Tracker**: Monitor and log pregnancy-related symptoms with personalized insights.
-2. Weekly Guidance**: Get week-by-week insights into baby development and maternal changes.
-3. Education Library**: Access a comprehensive repository of pregnancy-related articles and resources.
-4. Community Support**: Connect with other expectant mothers for shared experiences and support.
-5. Emergency & Appointments**: Manage prenatal appointments and store emergency contact information.
+1. Symptom Tracker: Monitor and log pregnancy-related symptoms with personalized insights.
+2. Weekly Guidance: Get week-by-week insights into baby development and maternal changes.
+3. Education Library: Access a comprehensive repository of pregnancy-related articles and resources.
+4. Community Support: Connect with other expectant mothers for shared experiences and support.
+5. Emergency & Appointments: Manage prenatal appointments and store emergency contact information.
 
 Technologies Used:
 
