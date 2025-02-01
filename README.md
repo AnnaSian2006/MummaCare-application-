@@ -22,4 +22,7 @@ Technologies Used:
 
 The required datasets for training this model has been taken from various open AI platforms and kaggle.
 
+The direct link to our application is provided here:
+https://v0-mumma-care-zkf31kpugnf-et2xou.vercel.app/
+
 ~Regards
