@@ -1,2 +1,25 @@
 # MummaCare-application-
-MummaCare is a comprehensive pregnancy companion app designed to support expectant mothers throughout their journey.  With its user-friendly interface and expert-backed content, MummaCare aims to empower and inform mothers-to-be, ensuring a smoother and more confident pregnancy experience.
+# MummaCare
+
+MummaCare is a comprehensive pregnancy companion app designed to support and empower expectant mothers throughout their pregnancy journey. This React-based application combines cutting-edge technology with expert-backed content to provide a holistic approach to pregnancy .
+
+Features
+MummaCare offers a suite of five core features:
+
+1. Symptom Tracker**: Monitor and log pregnancy-related symptoms with personalized insights.
+2. Weekly Guidance**: Get week-by-week insights into baby development and maternal changes.
+3. Education Library**: Access a comprehensive repository of pregnancy-related articles and resources.
+4. Community Support**: Connect with other expectant mothers for shared experiences and support.
+5. Emergency & Appointments**: Manage prenatal appointments and store emergency contact information.
+
+Technologies Used:
+
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Lucide React (for icons)
+
+The required datasets for training this model has been taken from various open AI platforms and kaggle.
+
+~Regards
